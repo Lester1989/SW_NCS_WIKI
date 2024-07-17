@@ -69,7 +69,7 @@ Zwischen der Außenmauer und der Festung befinden sich viele kleine Hütten und 
 
 
 # Aufträge
-
+Coming Soon
 
 # Monster
 
@@ -108,7 +108,8 @@ Vogelartig, Stummelfrügel, lange Beine, scharfe Krallen, Schnabel, Kurze raue F
 | Wildtöter | Ranged (Heavy) | 12 | 3 | Long | 5 | 2000 | [Accurate](/waffeneigenschaften.md#accurate-passive) 3, [Cumbersome](/waffeneigenschaften.md#cumbersome-passive) 2, [Slow-Firing](/waffeneigenschaften.md#slow-firing-passive) 3, [Viscous](/waffeneigenschaften.md#vicious-passive) 2|
 | Schrotflinte | Ranged (Heavy) | 8 | 4 | Short | 4 | 1000 | [Accurate](/waffeneigenschaften.md#accurate-passive) 2, [Viscous](/waffeneigenschaften.md#vicious-passive) 2 |
 | Zweihandaxt | Melee | +2 | 4 | Engaged | 4 | 200 | [Cumbersome](/waffeneigenschaften.md#cumbersome-passive) 2, [Vicious](/waffeneigenschaften.md#vicious-passive) 1 |
-| Zweihandhammer | Melee | +2 | 4| Engaged | 4 | 100 | [Cumbersome](/waffeneigenschaften.md#cumbersome-passive) 2, [Knockdown](/waffeneigenschaften.md#knockdown-active) |
+| Zweihandhammer | Melee | +2 | 4 | Engaged | 4 | 100 | [Cumbersome](/waffeneigenschaften.md#cumbersome-passive) 2, [Knockdown](/waffeneigenschaften.md#knockdown-active) |
+| Zweihandschwert |Melee | +3 | 3 | Engaged | 4 | 450 | [Pierce](/waffeneigenschaften.md#pierce-passive) 2,  [Accurate](/waffeneigenschaften.md#accurate-passive) 2 |
 | Messer | Melee | +1 | 3 | Engaged | 2 | 50 | [Accurate](/waffeneigenschaften.md#accurate-passive) 1, [Pierce](/waffeneigenschaften.md#pierce-passive) 1 |
 | Mini Gauss Gewehr | Ranged (Light) | 4 | 5 | Short | 2 | 500 | [Pierce](/waffeneigenschaften.md#pierce-passive) 1 / [Accurate](/waffeneigenschaften.md#accurate-passive) 1 / [Vicious](/waffeneigenschaften.md#vicious-passive) 1 |
 
