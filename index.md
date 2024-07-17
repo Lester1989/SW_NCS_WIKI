@@ -17,7 +17,7 @@
 
 ## Bewahrerlager
 
-Zwischen der Außenmauer und der Festung befinden sich viele kleine Hütten und Blechbuden. Es brennen Lagerfeuer, einige in Fässern oder gemäuerten Feuerstellen, andere einfach auf dem Boden. Die auf der Außenmauer patrouillierenden Gardisten tragen schwere Rüstungen und Gausgewehre. Die Bewohner sind größtenteils in Arbeiter Kleidung, auch wenn vereinzelt malt jemand der leichteren Rüstung als Schatten erkennbar ist. Es riecht mal nach Feuer, mal nach Metallarbeiten (wenn gerade an einer Hütte etwas geflickt wird) und an einigen Stellen auch nach Unrat, wenn man an einem Abfallhaufen vorbeikommt. Von überall kommen gesprächsfetzen, das Klappern von Werkzeugen und das Knistern von Feuer. Manchmal hört man auch das Zischen von Schweißgeräten oder das schrille Schaben von Elektrowerkzeugen.
+Zwischen der Außenmauer und der Festung befinden sich viele kleine Hütten und Blechbuden. Es brennen Lagerfeuer, einige in Fässern oder gemäuerten Feuerstellen, andere einfach auf dem Boden. Die auf der Außenmauer patrouillierenden Gardisten tragen schwere Rüstungen und Gaussgewehre. Die Bewohner sind größtenteils in Arbeiter Kleidung, auch wenn vereinzelt malt jemand der leichteren Rüstung als Schatten erkennbar ist. Es riecht mal nach Feuer, mal nach Metallarbeiten (wenn gerade an einer Hütte etwas geflickt wird) und an einigen Stellen auch nach Unrat, wenn man an einem Abfallhaufen vorbeikommt. Von überall kommen Gesprächsfetzen, das Klappern von Werkzeugen und das Knistern von Feuer. Manchmal hört man auch das Zischen von Schweißgeräten oder das schrille Schaben von Elektrowerkzeugen.
 
 
 
@@ -66,7 +66,6 @@ Zwischen der Außenmauer und der Festung befinden sich viele kleine Hütten und 
 
 # Aufträge
 
-Coming soon
 
 # Monster
 
@@ -109,7 +108,7 @@ Vogelartig, Stummelfrügel, lange Beine, scharfe Krallen, Schnabel, Kurze raue F
 | Messer | Melee | +1 | 3 | Engaged | 2 | 50 | [Accurate](/waffeneigenschaften.md#accurate-passive) 1, [Pierce](/waffeneigenschaften.md#pierce-passive) 1 |
 | Mini Gauss Gewehr | Ranged (Light) | 4 | 5 | Short | 2 | 500 | [Pierce](/waffeneigenschaften.md#pierce-passive) 1 / [Accurate](/waffeneigenschaften.md#accurate-passive) 1 / [Vicious](/waffeneigenschaften.md#vicious-passive) 1 |
 
-## Rüstungen (WIP)
+## Rüstungen
 
 | Name | Faction | Defense | Soak | Price | Special |
 |------|---------|---------|------|-------|---------|

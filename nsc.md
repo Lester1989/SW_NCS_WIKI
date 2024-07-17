@@ -1,3 +1,4 @@
+
 ## Bewahrer
 
 
@@ -9,14 +10,16 @@ Togruta
 
 ### Ogedi
 Shistavanen
-* Hat die Gruppe Begrüßt und 2 Stimpacks gegeben.
-* Weiß dass Gruppe auch Befreier interessant findet.
-* Hat die Gruppe eingeladen dem Freundestreffen beizuwohnen um Stimmen aus den anderen Lagern zu hören
+* Hat die Gruppe Begrüßt und 2 Stimpacks gegeben
+* Weiß dass Gruppe auch Befreier interessant findet
+* Hat Gruppe zum Treffen mit Lurmen [Tenlim](/NPC/Tenlim.md), Chadra-Fan [Tuk](/NPC/Tuk.md) und Trandoshaner [Grom](/NPC/Grom.md)
 
 
 ### Snawaf
 Sullustan
 * Wurde von Ogedi auch als Laienarzt empfohlen.
+* Betreibt Suppenküche
+* Hat die Gruppe Zutaten besorgen geschickt
 
 
 ### Tascy
@@ -38,6 +41,7 @@ Mensch
 Zabrak
 * Hat seinen Kumpanen Gunn niedergeschossen und Bashu verwundet.
 * Bashu hat einen Gamorreaner verwundet.
+
 ## Träumer
 
 
