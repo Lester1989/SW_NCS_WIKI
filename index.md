@@ -1,4 +1,4 @@
-# Bekannte
+# Bekannte NSC
 
 [NSC](/nsc.md)
 
@@ -31,8 +31,8 @@ Zwischen der Außenmauer und der Festung befinden sich viele kleine Hütten und 
 
 ### Plätze
 
-* **Nordtorviertel **: Hier wohnt Ogedi und es gibt hier den einizgen Eingang zur Festung im inneren. Vor diesem Eingang steht ein Wookie in sehr schwerer Rüstung und hält Wache. Im Durchgang hinter ihm sieht man weitere Gardisten, die größtenteils sitzen und Karten spielen oder würfeln. Sie erheben sich immer nur dann, wenn sich jemand dem Tor nähert.
-* **Arenaviertel **: Die große Arena, die dem Viertel den Namen gibt, ist ein großer Rundbau, der in der Mitte des Viertels steht. Hier finden regelmäßig Kämpfe statt, die von den Bewohnern des Viertels und den Gardisten besucht werden. Tascy leitet die Arena und den angenzenden Schrottplatz. Hier werden auch die Wetten für die Kämpfe abgeschlossen. 
+* **Nordtorviertel**: Hier wohnt Ogedi und es gibt hier den einizgen Eingang zur Festung im inneren. Vor diesem Eingang steht ein Wookie in sehr schwerer Rüstung und hält Wache. Im Durchgang hinter ihm sieht man weitere Gardisten, die größtenteils sitzen und Karten spielen oder würfeln. Sie erheben sich immer nur dann, wenn sich jemand dem Tor nähert.
+* **Arenaviertel**: Die große Arena, die dem Viertel den Namen gibt, ist ein großer Rundbau, der in der Mitte des Viertels steht. Hier finden regelmäßig Kämpfe statt, die von den Bewohnern des Viertels und den Gardisten besucht werden. Tascy leitet die Arena und den angenzenden Schrottplatz. Hier werden auch die Wetten für die Kämpfe abgeschlossen. 
 
 ## Bewahrermine
 
@@ -66,7 +66,7 @@ Zwischen der Außenmauer und der Festung befinden sich viele kleine Hütten und 
 
 # Aufträge
 
-coming soon
+Coming soon
 
 # Monster
 
@@ -109,7 +109,7 @@ Vogelartig, Stummelfrügel, lange Beine, scharfe Krallen, Schnabel, Kurze raue F
 | Messer | Melee | +1 | 3 | Engaged | 2 | 50 | [Accurate](/waffeneigenschaften.md#accurate-passive) 1, [Pierce](/waffeneigenschaften.md#pierce-passive) 1 |
 | Mini Gauss Gewehr | Ranged (Light) | 4 | 5 | Short | 2 | 500 | [Pierce](/waffeneigenschaften.md#pierce-passive) 1 / [Accurate](/waffeneigenschaften.md#accurate-passive) 1 / [Vicious](/waffeneigenschaften.md#vicious-passive) 1 |
 
-## Rüstungen
+## Rüstungen (WIP)
 
 | Name | Faction | Defense | Soak | Price | Special |
 |------|---------|---------|------|-------|---------|
