@@ -12,6 +12,9 @@ Rodian
 
 ### Grom
 Trandoshaner
+* hat vor Lara und der Bande gewarnt
+* hat vom Fluchtplan erzählt: ein Mega-Cortosis-Schildhammer
+* hat die Gruppe an Lee verwiesen
 
 ## Bewahrer
 
