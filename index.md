@@ -36,7 +36,8 @@ Zwischen der Außenmauer und der Festung befinden sich viele kleine Hütten und 
 ### Plätze
 
 * **Nordtorviertel**: Hier wohnt Ogedi und es gibt hier den einizgen Eingang zur Festung im inneren. Vor diesem Eingang steht ein Wookie in sehr schwerer Rüstung und hält Wache. Im Durchgang hinter ihm sieht man weitere Gardisten, die größtenteils sitzen und Karten spielen oder würfeln. Sie erheben sich immer nur dann, wenn sich jemand dem Tor nähert.
-* **Arenaviertel**: Die große Arena, die dem Viertel den Namen gibt, ist ein großer Rundbau, der in der Mitte des Viertels steht. Hier finden regelmäßig Kämpfe statt, die von den Bewohnern des Viertels und den Gardisten besucht werden. Tascy leitet die Arena und den angenzenden Schrottplatz. Hier werden auch die Wetten für die Kämpfe abgeschlossen. 
+* **Arenaviertel**: Die große Arena, die dem Viertel den Namen gibt, ist ein großer Rundbau, der in der Mitte des Viertels steht. Hier finden regelmäßig Kämpfe statt, die von den Bewohnern des Viertels und den Gardisten besucht werden. Tascy leitet die Arena und den angenzenden Schrottplatz. Hier werden auch die Wetten für die Kämpfe abgeschlossen.
+* **Südtorviertel**: Neben einem halb verfallenem Wachturm gibt es hier auch eine Schmiede, die von einem Besalisk namens Nonuho betrieben wird. Er repariert und schmiedet Waffen und Rüstungen für die Schatten und Werkzeuge oder kleinere Gebrauchsgegenstände für den Alltag.
 
 ## Bewahrermine
 
