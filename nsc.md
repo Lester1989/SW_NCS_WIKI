@@ -54,6 +54,7 @@ Cerean
 * Arenaleiter
 * Verwaltet den Schrottplatz
 * Nimmt Wetten an
+* Wurde von Ferris beim Würfeln abgezogen
 
 
 ### Tenlim
