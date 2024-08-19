@@ -9,10 +9,16 @@ Wenn Wege existieren kann ein Hexfeld in einer Stunde mit Marschtempo durchquert
 
 ## Befreierlager
 
+Das Lager scheint im in einem Felsmassiv zu liegen, die kämpferischen Bewohner des Lagers verzieren ihre Rüstungen mit blauen Stofffetzen um ihre Zugehörigkeit zu zeigen. To be Continued
+
 
 * existiert
 * liegt im westen etwa 100km entfernt (Luftlinie weniger)
 * arbeiten an Ausbruchsplan
+
+### Plätze
+
+* **Schluchttor**: Es gibt kein Tor, in der hohen steilwand aus Fels gibt es eine natürliche Schlucht, dessen oberen Ränder so nah zusammen stehen, dass die Schlucht auch als Höhle durchgehen kann. Dadurch fällt nur wenig Licht hinein. Allerdings pfeift der Wind durch die Schlucht und trägt den Geruch von stehendem Wasser und Schweiß hinaus aus dem Lager. Die Wachen vor der Schlucht zeigen so wenig Motivation in ihrem Tun, dass sie kaum als solche zu bezeichnen sind.
 
 ## Befreiermine
 
