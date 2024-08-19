@@ -7,7 +7,31 @@ Rodian
 * Will Gunn (und Gruppe) mit ins Lager der Befreier nehmen wenn Kletad stirbt
 * Kletad ist gestorben
 
+
+### Wolf
+Quarren
+* Kennt sich mit Verwertung von Tieren aus
+
+## Befreier (Freie)
+
+
+### Homine
+Ugnaught
+* hat die Gruppe beauftragt, den Damm zu sichen und das Monster zu erlegen
+* ist sehr zufrieden mit der Erledigung
+* hat die Gruppe an Wolf verwiesen zur verwertung des Monsters
+
 ## Befreier (Söldner)
+
+
+### Blade
+Wookie
+
+
+### Florf
+Trandoshaner
+* hat der Gruppe eine Hütte zugewiesen
+* hat Bashu eine Rüstung geliehen
 
 
 ### Grom
@@ -15,6 +39,27 @@ Trandoshaner
 * hat vor Lara und der Bande gewarnt
 * hat vom Fluchtplan erzählt: ein Mega-Cortosis-Schildhammer
 * hat die Gruppe an Lee verwiesen
+
+
+### Lee
+Chiss
+* Hat Gunn ein Gewehr geliehen
+* Hat der Gruppe vieles erklärt
+* Hat die Gruppe an Florf verwiesen
+
+
+### Orik
+Duros
+* Steht am inneren Tor Wache
+* hat die Gruppe gewarnt
+* hat erzählt das Wookies und Trandoshaner hier koexistieren
+
+
+### Srocon
+Twilek
+* Hat mit Ferris geredet am Gitter über dem Erz
+* hat Zeit für Ausbruch auf ein halbes Jahr geschätzt
+* hat um Hilfe bei Abbau und Verarbeitung gegeben
 
 ## Bewahrer
 
