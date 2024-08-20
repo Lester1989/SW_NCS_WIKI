@@ -11,6 +11,7 @@ Rodian
 ### Wolf
 Quarren
 * Kennt sich mit Verwertung von Tieren aus
+* hat 200 Erz an die Gruppe gegeben und 300 Erz versprochen, sobald er es hat
 
 ## Befreier (Freie)
 
