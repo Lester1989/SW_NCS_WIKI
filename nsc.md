@@ -16,6 +16,7 @@ Trandoshaner
 
 ### Wedge
 Noghri
+* + Schläger vom Skannlord auf den Feldern vorm Lager der Befreier
 * + wurde von Bashu besiegt
 
 
