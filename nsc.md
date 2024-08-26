@@ -2,6 +2,13 @@
 ## Befreier (Bande)
 
 
+### Billut
+Trandoshaner
+* wohnte im Lager der Befreier in dergleichen Hütte wie die Gruppe
+* wurde von Ferris ins Knie geschossen
+* hat sich verletzt zurückgezogen
+
+
 ### Dragmor
 Rodian
 * Will Gunn (und Gruppe) mit ins Lager der Befreier nehmen wenn Kletad stirbt
@@ -46,7 +53,7 @@ Ugnaught
 
 ### Blade
 Wookie
-* + hat manchmal Wachdienst am Inneren Tor
+* hat manchmal Wachdienst am Inneren Tor
 
 
 ### Florf
@@ -80,6 +87,7 @@ Duros
 
 ### Riadror
 Mensch
+* arbeitet unten in der Mine
 
 
 ### Srocon
