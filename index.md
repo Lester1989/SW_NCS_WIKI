@@ -19,6 +19,9 @@ Das Lager scheint im in einem Felsmassiv zu liegen, die kämpferischen Bewohner 
 ### Plätze
 
 * **Schluchttor**: Es gibt kein Tor, in der hohen steilwand aus Fels gibt es eine natürliche Schlucht, dessen oberen Ränder so nah zusammen stehen, dass die Schlucht auch als Höhle durchgehen kann. Dadurch fällt nur wenig Licht hinein. Allerdings pfeift der Wind durch die Schlucht und trägt den Geruch von stehendem Wasser und Schweiß hinaus aus dem Lager. Die Wachen vor der Schlucht zeigen so wenig Motivation in ihrem Tun, dass sie kaum als solche zu bezeichnen sind.
+* **Felder**: Riecht nach schweif und den Feldpflanzen, man hört das Rauschen des Windes und das Rascheln der Pflanzen sowie das Hacken der Sklaven und das Rufen der Aufseher. Auf mehreren treppenartigen Ebenen werden Felder bewirtschaftet, ein größeres Gebäude mit angeschlossenem Silo überschattet die Felder, erscheint jedoch klein vor dem Damm der dahinter liegt.
+* **Inneres Tor**: Schweres Geschütz, schmales Tor und keine Deckung für alle, die hindurch wollen. Die Wachen sind aufmerksam und tragen schwere Rüstungen und haben Gaussgewehre.
+* **Der Kessel**: Im inneren des Berge liegt eine riesige fast runde Höhle. Diese wird auch der Kessel genannt. An den Wänden befinden sich mehrere Ebenen, die durch Treppen und Leitern miteinander verbunden sind. In der Mitte des Kessels befindet sich ein vergittertes Loch, durch welches der Erzhaufen zu sehen ist. Der Kessel ist mehr oder weniger in zwei Seiten eingeteilt, die Seite der Bande und die Seite der Söldner und Gelehrten.
 
 ## Befreiermine
 

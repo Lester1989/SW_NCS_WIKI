@@ -6,6 +6,7 @@
 Rodian
 * Will Gunn (und Gruppe) mit ins Lager der Befreier nehmen wenn Kletad stirbt
 * Kletad ist gestorben
+* hat Gruppe mit ins Lager genommen, hat dafür einen der beiden unterwegs eingesammelten Droiden behalten
 
 
 ### Skannlord
@@ -39,6 +40,7 @@ Ugnaught
 
 ### Blade
 Wookie
+* + hat manchmal Wachdienst am Inneren Tor
 
 
 ### Florf
