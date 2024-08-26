@@ -11,6 +11,8 @@ Rodian
 
 ### Lara
 Hutt
+* sagt, dass die Gruppe in ihrer Schuld steht
+* will dass die Gruppe entweder einen Konvoi überfällt oder Kaa Korlulk bestiehlt
 
 
 ### Skannlord
@@ -55,6 +57,7 @@ Trandoshaner
 
 ### Grom
 Trandoshaner
+* Freund von Ogedi
 * hat vor Lara und der Bande gewarnt
 * hat vom Fluchtplan erzählt: ein Mega-Cortosis-Schildhammer
 * hat die Gruppe an Lee verwiesen
