@@ -38,6 +38,8 @@ Noghri
 Quarren
 * Kennt sich mit Verwertung von Tieren aus
 * hat 200 Erz an die Gruppe gegeben und 300 Erz versprochen, sobald er es hat
+* hat weitere 150 Erz abgegeben
+* sagt, dass die Fertigung Rüstungen etwa 2 Wochen dauern
 
 ## Befreier (Freie)
 
@@ -88,6 +90,7 @@ Duros
 ### Riadror
 Mensch
 * arbeitet unten in der Mine
+* Riadror ist schlecht auf Ferris zu sprechen
 
 
 ### Srocon
@@ -95,6 +98,7 @@ Twilek
 * Hat mit Ferris geredet am Gitter über dem Erz
 * hat Zeit für Ausbruch auf ein halbes Jahr geschätzt
 * hat um Hilfe bei Abbau und Verarbeitung gegeben
+* hat Ferris für gute Arbeit bei der Wartung der Anlagen freien Zugang zur Werkstatt erlaubt (zusätzlich zum Sold)
 
 
 ### Xyrim
