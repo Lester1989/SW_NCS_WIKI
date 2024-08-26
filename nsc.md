@@ -16,10 +16,22 @@ Rodian
 * hat Gruppe mit ins Lager genommen, hat dafür einen der beiden unterwegs eingesammelten Droiden behalten
 
 
+### Drax
+Kubaz
+* + wurde von Gunn unweit vom Lager der Bewahrer gesehen
+* + hat mit Bashu geredet.
+
+
 ### Lara
 Hutt
 * sagt, dass die Gruppe in ihrer Schuld steht
 * will dass die Gruppe entweder einen Konvoi überfällt oder Kaa Korlulk bestiehlt
+
+
+### Rattafor
+Kubaz
+* + wurde von Gunn unweit vom Lager der Bewahrer gegeben
+* + hat mit Bashu geredet.
 
 
 ### Skannlord
@@ -131,6 +143,16 @@ Shistavanen
 * Hat die Gruppe Begrüßt und 2 Stimpacks gegeben
 * Weiß dass Gruppe auch Befreier interessant findet
 * Hat Gruppe zum Treffen mit Lurmen [Tenlim](/NPC/Tenlim.md), Chadra-Fan [Tuk](/NPC/Tuk.md) und Trandoshaner [Grom](/NPC/Grom.md)
+
+
+### Skip
+Drall
+* Wurde von Ferris beim Würfeln abgezogen im Bewahrerlager am Tor
+
+
+### Slone
+Sluissi
+* Wurde von Ferris beim Würfeln abgezogen im Bewahrerlager am Tor
 
 
 ### Snawaf
