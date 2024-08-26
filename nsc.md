@@ -9,6 +9,10 @@ Rodian
 * hat Gruppe mit ins Lager genommen, hat dafür einen der beiden unterwegs eingesammelten Droiden behalten
 
 
+### Lara
+Hutt
+
+
 ### Skannlord
 Trandoshaner
 * wollte die Gruppe für sich arbeiten lassen
@@ -17,8 +21,8 @@ Trandoshaner
 
 ### Wedge
 Noghri
-* + Schläger vom Skannlord auf den Feldern vorm Lager der Befreier
-* + wurde von Bashu besiegt
+* Schläger vom Skannlord auf den Feldern vorm Lager der Befreier
+* wurde von Bashu besiegt
 
 
 ### Wolf
@@ -58,9 +62,10 @@ Trandoshaner
 
 ### Lee
 Chiss
-* Hat Gunn ein Gewehr geliehen
+* Hat Gunn ein Gewehr geliehen (wurde zurückgegeben)
 * Hat der Gruppe vieles erklärt
 * Hat die Gruppe an Florf verwiesen
+* Lobt die Gruppe und hat sie zum Essen eingeladen
 
 
 ### Orik
@@ -70,11 +75,24 @@ Duros
 * hat erzählt das Wookies und Trandoshaner hier koexistieren
 
 
+### Riadror
+Mensch
+
+
 ### Srocon
 Twilek
 * Hat mit Ferris geredet am Gitter über dem Erz
 * hat Zeit für Ausbruch auf ein halbes Jahr geschätzt
 * hat um Hilfe bei Abbau und Verarbeitung gegeben
+
+
+### Xyrim
+Mirialan
+* ist unten in der Werkstatt der Befreier
+* überlegt ein Uboot zu bauen
+* FastMax ist als Testpilot geplant
+* verfasst ein Botenbrief an die Gelehrten im Bewahrer Lager
+* schreibt Brief an Storciro den die Gruppe überbringen kann.
 
 ## Bewahrer
 
@@ -106,6 +124,12 @@ Sullustan
 * Betreibt Suppenküche
 * Hat die Gruppe Zutaten besorgen geschickt
 * Hat Scavenger von der Grupper erhalten und 2 Wochen täglich Suppe versprochen
+
+
+### Storciro
+Mirialan
+* lebt in der Festung der Bewahrer
+* ist ein Gelehrter dort
 
 
 ### Tascy
@@ -152,6 +176,13 @@ Cerean
 * Erklärung irgendwas mit Magie und dem Glauben an den Träumer
 * Templerin, schwer gerüstet
 * Getötet von Nexu, aber den Nexu ebenfalls getötet
+
+
+### Kaa Korlulk
+Sullustan
+* hält sich in der Schenke im Lager der Befreier auf
+* Korlulk hat eine Lieferung von Drogen dabei, die etwas 400 Erz wert ist
+* Lara will, dass die Gruppe die Drogen von Korlulk stiehlt
 
 
 ### Kaa Varpae
