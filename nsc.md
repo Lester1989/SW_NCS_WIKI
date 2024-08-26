@@ -8,6 +8,17 @@ Rodian
 * Kletad ist gestorben
 
 
+### Skannlord
+Trandoshaner
+* wollte die Gruppe für sich arbeiten lassen
+* Hat sich umstimmen lassen, als Bashu Wedge besiegt hat
+
+
+### Wedge
+Noghri
+* + wurde von Bashu besiegt
+
+
 ### Wolf
 Quarren
 * Kennt sich mit Verwertung von Tieren aus
