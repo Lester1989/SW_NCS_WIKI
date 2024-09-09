@@ -21,6 +21,7 @@ Das Lager scheint im in einem Felsmassiv zu liegen, die kämpferischen Bewohner 
 * **Schluchttor**: Es gibt kein Tor, in der hohen steilwand aus Fels gibt es eine natürliche Schlucht, dessen oberen Ränder so nah zusammen stehen, dass die Schlucht auch als Höhle durchgehen kann. Dadurch fällt nur wenig Licht hinein. Allerdings pfeift der Wind durch die Schlucht und trägt den Geruch von stehendem Wasser und Schweiß hinaus aus dem Lager. Die Wachen vor der Schlucht zeigen so wenig Motivation in ihrem Tun, dass sie kaum als solche zu bezeichnen sind.
 * **Felder**: Riecht nach schweif und den Feldpflanzen, man hört das Rauschen des Windes und das Rascheln der Pflanzen sowie das Hacken der Sklaven und das Rufen der Aufseher. Auf mehreren treppenartigen Ebenen werden Felder bewirtschaftet, ein größeres Gebäude mit angeschlossenem Silo überschattet die Felder, erscheint jedoch klein vor dem Damm der dahinter liegt.
 * **Inneres Tor**: Schweres Geschütz, schmales Tor und keine Deckung für alle, die hindurch wollen. Die Wachen sind aufmerksam und tragen schwere Rüstungen und haben Gaussgewehre.
+* **Der Erzhaufen und die Werkstatt**: Hochofen verbesserungsfähig. Es gibt verarbeitetes Erz und unverarbeitetes Erz. Die Werkstatt liegt meist unbenutzt da, solange der Hochofen arbeitet um der Erz zu schmelzen. Alles wird von mindestens 2 Söldnerwachen beobachtet und die Gelehrten sind emsig zugange.
 * **Der Kessel**: Im inneren des Berge liegt eine riesige fast runde Höhle. Diese wird auch der Kessel genannt. An den Wänden befinden sich mehrere Ebenen, die durch Treppen und Leitern miteinander verbunden sind. In der Mitte des Kessels befindet sich ein vergittertes Loch, durch welches der Erzhaufen zu sehen ist. Der Kessel ist mehr oder weniger in zwei Seiten eingeteilt, die Seite der Bande und die Seite der Söldner und Gelehrten.
 
 ## Befreiermine
@@ -101,6 +102,23 @@ Vogelartig, Stummelfrügel, lange Beine, scharfe Krallen, Schnabel, Kurze raue F
 * Krallen und Schnabel Angriffe
 * Laut und Aggressiv, flieht erst sehr spät
 * Fleisch in den Schenkeln, verwertbar
+
+## Schattenlaeufer
+Aussehen - Bekannt
+Mischung aus Katze und Nashorn. Das Fell ist bei Tag dunkel braun und bei Nacht schwarz. Die Beine sind ca 1,5-1,7m lang und die Schulterhöhe beträgt ca 2,4m. Der Kopf ist eher Katzenartig, jedoch mit einem langen Horn auf der Stirn. Die Augen sind gelb. Der Schwanz ist lang und buschig, kann jedoch auch hart zuschlagen.
+
+* Jagd meist alleine
+* macht Quasi keine Geräusche
+* sehr intelligent für ein Tier
+* sehr schnell
+* geduldig
+
+## Wolf
+Aussehen - Bekannt
+Ein großer, grauer Wolf, mit einem dicken Fell und scharfen Zähnen. Die Augen sind grün und im Stehen sind die Schultern fast auf Kopfhöhe eines Humanoiden. Ihre geduckte Haltung bei der Jagd lässt sie jedoch kleiner wirken.
+
+* In Rudeln unterwegs, flieht bei Gefahr, greift nur an wenn in der Überzahl oder hungrig
+* Kann zum Reitwolf ausgebildet werden.
 
 
 

@@ -124,6 +124,15 @@ Mirialan
 ## Bewahrer
 
 
+### Canrishore
+Togruta
+* wohnt etwas abseits des Bewahrerlagers
+* hat meist Reittiere auf der Weide, die sie einreitet
+* hat eine Lieferung für Wheltirs im Bewahrerlager mitgegeben, ein verzierter Gewehrkolben
+* bietet Reitwölfe für 300 Erz
+* kauft junge Wolfe für bis zu 100 Erz
+
+
 ### Kirga
 Togruta
 * Schatten
