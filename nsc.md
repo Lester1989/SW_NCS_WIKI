@@ -151,7 +151,8 @@ Besalisk
 Shistavanen
 * Hat die Gruppe Begrüßt und 2 Stimpacks gegeben
 * Weiß dass Gruppe auch Befreier interessant findet
-* Hat Gruppe zum Treffen mit Lurmen [Tenlim](/NPC/Tenlim.md), Chadra-Fan [Tuk](/NPC/Tuk.md) und Trandoshaner [Grom](/NPC/Grom.md)
+* Hat Gruppe zum Treffen mit Lurmen Tenlim, Chadra-Fan Tuk und Trandoshaner Grom
+* Hat mit FastMax
 
 
 ### Skip
@@ -170,12 +171,21 @@ Sullustan
 * Betreibt Suppenküche
 * Hat die Gruppe Zutaten besorgen geschickt
 * Hat Scavenger von der Grupper erhalten und 2 Wochen täglich Suppe versprochen
+* Hat Bashu gebeten in der 4. Runde im Arena-Kampf zu gewinnen (5 Erz Bonus)
+* Verlangt 20 Erz für eine Heilcreme falls der Kampf nicht gewonnen wird
 
 
 ### Storciro
 Mirialan
 * lebt in der Festung der Bewahrer
 * ist ein Gelehrter dort
+
+
+### Sturho
+Wookie
+* Eiserne Disziplin und Kodex
+* Liebt das Lager der Bewahrer
+* Lässt die Gruppe als Boten der Gelehrten der Befreier passieren
 
 
 ### Tascy
@@ -185,6 +195,8 @@ Cerean
 * Verwaltet den Schrottplatz
 * Nimmt Wetten an
 * Wurde von Ferris beim Würfeln abgezogen
+* Hat Bashu 3% der Wetteinnahmen versprochen falls er Mindestens 1 Minute gegen Kirga durchhält oder gewinnt
+* Gibt 40 Erz Antrittsgeld für den Wettkampf
 
 
 ### Tenlim
