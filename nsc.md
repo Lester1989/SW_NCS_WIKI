@@ -133,11 +133,20 @@ Togruta
 * kauft junge Wolfe für bis zu 100 Erz
 
 
+### Gomez
+Dowutin
+* Anführer der Bewahrer
+* Sehr groß und meist nicht gut gelaunt. bräunlich orange Haut, Stumpfe hörner am Kinn, keine Haare am Kopf
+
+
 ### Kirga
 Togruta
 * Schatten
 * Kämpft in der Arena
 * Siegreich gegen 2 Darkwölfe
+* hat Bashu gebeten im Kampf nicht bis zum Tod zu kämpfen
+* wurde von Bashu besiegt und fast getötet, mit einem Schlag und Schulterstoß
+* wurde aus der Arena getragen, aktueller Zustand unbekannt
 
 
 ### Nonuho
@@ -152,7 +161,7 @@ Shistavanen
 * Hat die Gruppe Begrüßt und 2 Stimpacks gegeben
 * Weiß dass Gruppe auch Befreier interessant findet
 * Hat Gruppe zum Treffen mit Lurmen Tenlim, Chadra-Fan Tuk und Trandoshaner Grom
-* Hat mit FastMax
+* Hat mit FastMax gewettet, dass die Gruppe nicht eingelassen wird um 10 Erz. (ausgezahlt)
 
 
 ### Skip
@@ -178,7 +187,9 @@ Sullustan
 ### Storciro
 Mirialan
 * lebt in der Festung der Bewahrer
-* ist ein Gelehrter dort
+* ist der oberste Gelehrte dort
+* hat FastMax einen Passagiertransport-Speeder (mit reparaturbedarf) als Belohnung für Botengang gegeben
+* hat sich sehr über die schnelle Überbringung der Botschaft gefreut
 
 
 ### Sturho
@@ -186,6 +197,7 @@ Wookie
 * Eiserne Disziplin und Kodex
 * Liebt das Lager der Bewahrer
 * Lässt die Gruppe als Boten der Gelehrten der Befreier passieren
+* hat eine lange Liste von Vergehen aufgezählt, für die die Gruppe erschossen würde
 
 
 ### Tascy
@@ -197,6 +209,8 @@ Cerean
 * Wurde von Ferris beim Würfeln abgezogen
 * Hat Bashu 3% der Wetteinnahmen versprochen falls er Mindestens 1 Minute gegen Kirga durchhält oder gewinnt
 * Gibt 40 Erz Antrittsgeld für den Wettkampf
+* Wird den versprochenen Anteil an Bashu auszahlen, wennn die Wetten eingelöst wurden
+* Hat auf Befehl von einem Chiss auf der Ehrentribüne 3 Wölfe auf Bashu losgelassen, die ihm die Augen ausgekratzt haben. Bashu hat noch gewonnen, aber bis die Heilung abgeschlossen ist, ist stark eingescränkt.
 
 
 ### Tenlim
@@ -210,6 +224,17 @@ Mensch
 * Hat der Gruppe die Hütten zugewiesen
 * Soll eine Wette bei Tascy abgeben
 * Hat viele Verbindungen und ist schon lange in dem Gefängnis
+
+
+### Velaya
+Devaronian
+* gehört zur hohen Garde der Bewahrer
+* kann sich sehr unauffällig bewegen
+* hat einen Speeder
+* hat sich lange mit Gunn unterhalten
+* hat sehr viele Informationen über aktuelle Ereignisse
+* möchte Gleichgewicht der Kräfte erhalten um Frieden zu bewahren
+* hat Gunn angeboten beim Schützen von Leben zu helfen
 
 
 ### Xatu

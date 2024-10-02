@@ -48,6 +48,7 @@ Zwischen der Außenmauer und der Festung befinden sich viele kleine Hütten und 
 * **Nordtorviertel**: Hier wohnt Ogedi und es gibt hier den einizgen Eingang zur Festung im inneren. Vor diesem Eingang steht ein Wookie in sehr schwerer Rüstung und hält Wache. Im Durchgang hinter ihm sieht man weitere Gardisten, die größtenteils sitzen und Karten spielen oder würfeln. Sie erheben sich immer nur dann, wenn sich jemand dem Tor nähert.
 * **Arenaviertel**: Die große Arena, die dem Viertel den Namen gibt, ist ein großer Rundbau, der in der Mitte des Viertels steht. Hier finden regelmäßig Kämpfe statt, die von den Bewohnern des Viertels und den Gardisten besucht werden. Tascy leitet die Arena und den angenzenden Schrottplatz. Hier werden auch die Wetten für die Kämpfe abgeschlossen. In der Arena werden Kämpfe häufig bis zum Tod ausgetragen. Manchmal werden Kämpfe gegen Monster veranstaltet.
 * **Südtorviertel**: Neben einem halb verfallenem Wachturm gibt es hier auch eine Schmiede, die von einem Besalisk namens Nonuho betrieben wird. Er repariert und schmiedet Waffen und Rüstungen für die Schatten und Werkzeuge oder kleinere Gebrauchsgegenstände für den Alltag. In diesem Viertel, nahe beim Tor hat Dragmor seinen Repulsorlift-Stand. Er schließt diverse Tauschgeschäfte ab und reist manchmal zwischen den Lagern der Bewahrer und der Befreier. Das Torhaus hier wurde nach Außen um eine Garage erweitert, in der ein paar Speeder und Repulsorfahrzeuge geparkt sind.
+* **Festung im inneren**: Um Gegensatz zum Außenbereich gibt es hier keine individuelle improvisierte Hütten, sondern größere Gebäude, die Wahrscheinlich noch aus der Zeit stammen, als die Festung noch ein Fort war. Die Gebäude sind aus Stein und Metall und haben mehrere Stockwerke. Auf dem Innenhof sind häufig Gardisten und Manchmal auch Schatten zu sehen, die Trainieren oder Exerzieren. Abgesehen von einer Ruine, die scheinbar nur als Trainingsstätte genutzt wird, gibt es noch das Hauptgebäude, eine mehrstöckige Baracke, eine Werkstatt mit angeschlossenem Lagerhaus und gegenüber davon ein kleineres Gebäude, das von den Gelehrten unter Storciro genutzt wird.
 
 ## Bewahrermine
 
@@ -65,6 +66,9 @@ Zwischen der Außenmauer und der Festung befinden sich viele kleine Hütten und 
 
 ## Landestelle
 
+Liegt in einem kleinen Bergkessel oben in am Rand eines Gebirges. Die höhenluft ist klar und kalt. Neben einem Flachen Teich, ind dem die Kapseln gewassert werden, gibt es einen Kran und eine Startplattform, von der die Kapseln nach dem beladen starten.
+
+Es gibt eine Mauer und Wachen, die den Zugang zur Plattform kontrollieren.
 
 * Liegt am ein bis zwei Stunden Fußmarsch vom Lager der Bewahrer entfernt
 * Unter Kontrolle der Bewahrer
