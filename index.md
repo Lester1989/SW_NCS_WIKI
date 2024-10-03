@@ -89,8 +89,6 @@ Coming Soon
 # Monster
 
 ## Fleischwanze
-Aussehen - Bekannt
-
 Ekelige Krabelkäfer, etwa Mausgroß als Jungtier, Ausgewachsen so groß wie ein Hase
 
 * sind ungefährlich es sei denn ausgewachsen in Schwärmen
@@ -98,8 +96,6 @@ Ekelige Krabelkäfer, etwa Mausgroß als Jungtier, Ausgewachsen so groß wie ein
 * Leben in Dunklen Orten oder bei Abfällen
 
 ## Scavenger
-Aussehen - Bekannt
-
 Vogelartig, Stummelfrügel, lange Beine, scharfe Krallen, Schnabel, Kurze raue Federn, Männchen roter Halssack ansonsten identisch
 
 * Vogelartige Aasfresser, einzeln einfache Beute, in Gruppen oder überraschend gefährlich
@@ -108,7 +104,6 @@ Vogelartig, Stummelfrügel, lange Beine, scharfe Krallen, Schnabel, Kurze raue F
 * Fleisch in den Schenkeln, verwertbar
 
 ## Schattenlaeufer
-Aussehen - Bekannt
 Mischung aus Katze und Nashorn. Das Fell ist bei Tag dunkel braun und bei Nacht schwarz. Die Beine sind ca 1,5-1,7m lang und die Schulterhöhe beträgt ca 2,4m. Der Kopf ist eher Katzenartig, jedoch mit einem langen Horn auf der Stirn. Die Augen sind gelb. Der Schwanz ist lang und buschig, kann jedoch auch hart zuschlagen.
 
 * Jagd meist alleine
@@ -118,7 +113,6 @@ Mischung aus Katze und Nashorn. Das Fell ist bei Tag dunkel braun und bei Nacht 
 * geduldig
 
 ## Wolf
-Aussehen - Bekannt
 Ein großer, grauer Wolf, mit einem dicken Fell und scharfen Zähnen. Die Augen sind grün und im Stehen sind die Schultern fast auf Kopfhöhe eines Humanoiden. Ihre geduckte Haltung bei der Jagd lässt sie jedoch kleiner wirken.
 
 * In Rudeln unterwegs, flieht bei Gefahr, greift nur an wenn in der Überzahl oder hungrig
