@@ -7,13 +7,37 @@
 
 Wenn Wege existieren kann ein Hexfeld in einer Stunde mit Marschtempo durchquert werden.
 
+## Absturzstelle
+
+Ein altes teils verfallenes Kloster liegt auf einem hohen Plateau. Die Mauern sind erhalten aber stark bewuchert. Durch einige kleinere Löcher kann man in den Innenhof sehen. Die Bewucherung der Mauern erleichtert das Klettern enorm.
+
+
+* eine Landekapsel, die mit Cortosis Erz beladen war, ist hier abgestürzt
+* liegt irgendwo im Nordosten innerhalb des Schilds
+* es gab keinen Rauch, als die Kapsel abstürzte
+* Die Kapsel ist in einem Teich/See in einer Tempelanlage gelandet
+* Die Kapsel ist so stark beschädigt, dass lediglich noch der beschädigte Energiekern nutzbar ist
+* Es konnten 400 kg verschmolzenes Cortosis Erz geborgen werden
+* Eine Droidenwächter wurde aktiviert und hat die Gruppe vertrieben
+* Es gibt 3 Gebäude, das größe wird von dem Wächter bewacht und vor Eindringlingen geschützt
+* Eines der kleineren ist oben offen und war vermutlich ein Quartier hat allerdings im Keller mindestens 50 Wächterdroiden, die im Angriffsmodus sind
+
+### Plätze
+
+* **Innenhof**: Von den Mauer umschlossen liegt der Innenhof mit einem Teich/See in der mitte ruhig da. Die Kapsel ist in dem Teich gelandet und hat eine Welle verursacht, die den Innenhof überflutet hat. Der Teich ist nun schlammig und das Wasser trüb. Die Kapsel ist stark beschädigt und das Cortosis Erz ist zu einem großen Gebilde und mit der Kapsel verschmolzen. Die Wände des Innenhofs sind mit Ranken und Moos bewachsen. Der Boden ist von gepflasterten Wegen durchzogen und ein schmaler Bereich um die Gebäude ist ebenfalls gepflastert. 
+* **Großes Gebäude**: Die Türen sind aus massivem Stein und Metall, Fenster sind nicht zu sehen. Vor dem Gebäude steht nun ein Wächterdroide, der mittlerweile fließend Basic spricht. Das betreten des Gebäudes ist verboten. Die Rückwand verschmilzt mit der Außenmauer des Klosters. Der Grundriss ist 40x50m und das Gebäude ist 10m hoch.
+* **Quartiergebäude**: Das Gebäude ist 10x10m und 5m hoch. Es hat ein Flaches Dach mit einer Öffnung von 5x5m in der Mitte. Im inneren sind auf Ober- und Erdgeschoss jeweils 8 Räume, die nahezu identisch aussehen. In den Ecken des Gebäudes ist je eine Wendeltreppe, welche die Stockwerke verbindet und auch einen Zugang zum Keller bietet. Der Keller hat 2 Ebenen, wobei die obere nur an den Außenwänden entlang führt und die untere Hauptebene über 2 Treppen mit den 4 Wendeltreppen verbindet. In der Hauptebene sind mindestens 50 Wächterdroiden, die im Angriffsmodus sind, d.h. aggressiv auf Eindringlinge reagieren.
+
 ## Befreierlager
 
 Das Lager scheint im in einem Felsmassiv zu liegen, die kämpferischen Bewohner des Lagers verzieren ihre Rüstungen mit blauen Stofffetzen um ihre Zugehörigkeit zu zeigen. To be Continued
 
 
-* existiert
-* liegt im westen etwa 100km entfernt (Luftlinie weniger)
+* ist in 2 Fraktionen aufgeteilt, Bande und Gelehrte mit Söldnern
+* Es gibt Zivilisten, die zu keiner der Fraktionen gehören
+* General Lee ist der Anführer der Söldner
+* Lara ist die Anführerin der Bande
+* Lara hat einen überfall auf einen Konvoi der Bewahrer organisiert
 * arbeiten an Ausbruchsplan
 
 ### Plätze
@@ -28,6 +52,7 @@ Das Lager scheint im in einem Felsmassiv zu liegen, die kämpferischen Bewohner 
 
 
 * existiert
+* Zugang nur durchs Lager der Befreier und nur für Mitglieder des Lagers
 
 ## Bewahrerlager
 
