@@ -24,9 +24,10 @@ Ein altes teils verfallenes Kloster liegt auf einem hohen Plateau. Die Mauern si
 
 ### Plätze
 
-* **Innenhof**: Von den Mauer umschlossen liegt der Innenhof mit einem Teich/See in der mitte ruhig da. Die Kapsel ist in dem Teich gelandet und hat eine Welle verursacht, die den Innenhof überflutet hat. Der Teich ist nun schlammig und das Wasser trüb. Die Kapsel ist stark beschädigt und das Cortosis Erz ist zu einem großen Gebilde und mit der Kapsel verschmolzen. Die Wände des Innenhofs sind mit Ranken und Moos bewachsen. Der Boden ist von gepflasterten Wegen durchzogen und ein schmaler Bereich um die Gebäude ist ebenfalls gepflastert. 
+* **Innenhof**: Von den Mauer umschlossen liegt der Innenhof mit einem Teich/See in der mitte ruhig da. Die Kapsel ist in dem Teich gelandet und hat eine Welle verursacht, die den Innenhof überflutet hat. Der Teich ist nun schlammig und das Wasser trüb. Die Kapsel ist stark beschädigt und das Cortosis Erz ist zu einem großen Gebilde und mit der Kapsel verschmolzen. Die Wände des Innenhofs sind mit Ranken und Moos bewachsen. Der Boden ist von gepflasterten Wegen durchzogen und ein schmaler Bereich um die Gebäude ist ebenfalls gepflastert.
 * **Großes Gebäude**: Die Türen sind aus massivem Stein und Metall, Fenster sind nicht zu sehen. Vor dem Gebäude steht nun ein Wächterdroide, der mittlerweile fließend Basic spricht. Das betreten des Gebäudes ist verboten. Die Rückwand verschmilzt mit der Außenmauer des Klosters. Der Grundriss ist 40x50m und das Gebäude ist 10m hoch.
 * **Quartiergebäude**: Das Gebäude ist 10x10m und 5m hoch. Es hat ein Flaches Dach mit einer Öffnung von 5x5m in der Mitte. Im inneren sind auf Ober- und Erdgeschoss jeweils 8 Räume, die nahezu identisch aussehen. In den Ecken des Gebäudes ist je eine Wendeltreppe, welche die Stockwerke verbindet und auch einen Zugang zum Keller bietet. Der Keller hat 2 Ebenen, wobei die obere nur an den Außenwänden entlang führt und die untere Hauptebene über 2 Treppen mit den 4 Wendeltreppen verbindet. In der Hauptebene sind mindestens 50 Wächterdroiden, die im Angriffsmodus sind, d.h. aggressiv auf Eindringlinge reagieren.
+* **Archivgebäude**: Das Gebäude ist 10x10m und 5m hoch. Es hat ein Flaches Dach mit einer Öffnung von 5x5m in der Mitte. Im inneren sind hohe Regale mit kleinen Öffnungen, in denen sich steinerne Datenkristalle befanden, die die Gruppe eingesammelt hat. Ein kleines Pult steht leeer mittig im Raum. Die 4 Ecken haben Wendeltreppen, die in den Keller führen. Hier ist an jeder Wand ein großes Kontrollpanel. Zwei der Panele weisen eine Lücke auf, aus der je ein teil ausgebaut wurde. Auf dem Boden liegt die überhitzte und geplatzte Batterie, dessen beißender Geruch die abgestandene Luft unerträglich macht.
 
 ## Befreierlager
 
@@ -119,6 +120,13 @@ Ekelige Krabelkäfer, etwa Mausgroß als Jungtier, Ausgewachsen so groß wie ein
 * sind ungefährlich es sei denn ausgewachsen in Schwärmen
 * sind essbar
 * Leben in Dunklen Orten oder bei Abfällen
+
+## Molerat
+
+
+* haarloses, nacktmullartiges Wesen
+* große Krallen und Nagezähne
+* scheint in oder an Höhlen zu leben
 
 ## Scavenger
 Vogelartig, Stummelfrügel, lange Beine, scharfe Krallen, Schnabel, Kurze raue Federn, Männchen roter Halssack ansonsten identisch
