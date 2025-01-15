@@ -182,11 +182,16 @@ Ein großer, grauer Wolf, mit einem dicken Fell und scharfen Zähnen. Die Augen 
 | Zweihandschwert |Melee | +3 | 3 | Engaged | 4 | 450 | [Pierce](/waffeneigenschaften.md#pierce-passive) 2,  [Accurate](/waffeneigenschaften.md#accurate-passive) 2 |
 | Messer | Melee | +1 | 3 | Engaged | 2 | 50 | [Accurate](/waffeneigenschaften.md#accurate-passive) 1, [Pierce](/waffeneigenschaften.md#pierce-passive) 1 |
 | Mini Gauss Gewehr | Ranged (Light) | 4 | 5 | Short | 2 | 500 | [Pierce](/waffeneigenschaften.md#pierce-passive) 1 / [Accurate](/waffeneigenschaften.md#accurate-passive) 1 / [Vicious](/waffeneigenschaften.md#vicious-passive) 1 |
+| Zweihandhammer | Melee | +3 |3| Engaged | 4 | unbezahlbar | [Cumbersome](/waffeneigenschaften.md#cumbersome-passive) 3, [Knockdown](/waffeneigenschaften.md#knockdown-active), [Pierce](/waffeneigenschaften.md#pierce-passive) 1, [Vicious](/waffeneigenschaften.md#vicious-passive) 1 |
+| Ionen/EMP Pistole | Ranged (Light) | 8 | 4 | Short | 1 | 300 | [Ion](/waffeneigenschaften.md#ion-passive) |
+| Gauss Gattling "Vulcan" Handheld | Gunnery | 11 | 3 | Medium | 7 | 1500 | [Auto-Fire](/waffeneigenschaften.md#auto-fire-active) (only), [Cumbersome](/waffeigenschaften.md#cumbersome-passive) 5, [Pierce](/waffeneigenschaften.md#pierce-passive) 2, [Prepare](/waffeneigenschaften.md#prepare-active) 2 |
+| Gauss Gattling "Vulcan" Mounted | Gunnery | 11 | 3 | Long | 7 | 1500 | [Auto-Fire](/waffeneigenschaften.md#auto-fire-active) (only), [Cumbersome](/waffeigenschaften.md#cumbersome-passive) 2, [Pierce](/waffeneigenschaften.md#pierce-passive) 2 |
 
 ## Rüstungen
 
 | Name | Faction | Defense | Soak | Price | Special |
 |------|---------|---------|------|-------|---------|
+| Hssiss-Schuppen-Mantel | - | 1 | 2 +1 | 800 | [Custom Fit](/rüstungseigenschaften.md#custom-fit), [Superior Armor Customization](/rüstungseigenschaften.md#superior-armor-customization-passive), [Lightweight](/rüstungseigenschaften.md#lightweight), Secret_1, Secret_2 |
 | Verbesserte Cortosisrüstung | - | 3 | 10 | 950 | - |
 | Antike Cortosisrüstung | - | 2 | 9 | 850 | - |
 | Hohe Gururobe | Träumer | 0 | 8 | 675 | - |
