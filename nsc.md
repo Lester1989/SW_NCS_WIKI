@@ -22,10 +22,10 @@ Rodian
 
 ### Drax
 Kubaz
-* + wurde von Gunn unweit vom Lager der Bewahrer gesehen
-* + hat mit Bashu geredet.
-* + als Vergeltung für den Überfall getötet
-* + bestattet von der Gruppe
+* wurde von Gunn unweit vom Lager der Bewahrer gesehen
+* hat mit Bashu geredet.
+* als Vergeltung für den Überfall getötet
+* bestattet von der Gruppe
 
 
 ### Lara
@@ -44,10 +44,10 @@ Mensch
 
 ### Rattafor
 Kubaz
-* + wurde von Gunn unweit vom Lager der Bewahrer gegeben
-* + hat mit Bashu geredet.
-* + als Vergeltung für den Überfall getötet
-* + bestattet von der Gruppe
+* wurde von Gunn unweit vom Lager der Bewahrer gegeben
+* hat mit Bashu geredet.
+* als Vergeltung für den Überfall getötet
+* bestattet von der Gruppe
 
 
 ### Wedge
