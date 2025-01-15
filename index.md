@@ -47,6 +47,7 @@ Das Lager scheint im in einem Felsmassiv zu liegen, die kämpferischen Bewohner 
 * **Felder**: Riecht nach schweif und den Feldpflanzen, man hört das Rauschen des Windes und das Rascheln der Pflanzen sowie das Hacken der Sklaven und das Rufen der Aufseher. Auf mehreren treppenartigen Ebenen werden Felder bewirtschaftet, ein größeres Gebäude mit angeschlossenem Silo überschattet die Felder, erscheint jedoch klein vor dem Damm der dahinter liegt.
 * **Inneres Tor**: Schweres Geschütz, schmales Tor und keine Deckung für alle, die hindurch wollen. Die Wachen sind aufmerksam und tragen schwere Rüstungen und haben Gaussgewehre.
 * **Der Erzhaufen und die Werkstatt**: Hochofen verbesserungsfähig. Es gibt verarbeitetes Erz und unverarbeitetes Erz. Die Werkstatt liegt meist unbenutzt da, solange der Hochofen arbeitet um der Erz zu schmelzen. Alles wird von mindestens 2 Söldnerwachen beobachtet und die Gelehrten sind emsig zugange.
+* **Die Insel Cantina**: Einige Bewohner des Lagers haben sich auf einer Insel eine Hütte eingerichtet, die sie als Cantina nutzen.
 * **Der Kessel**: Im inneren des Berge liegt eine riesige fast runde Höhle. Diese wird auch der Kessel genannt. An den Wänden befinden sich mehrere Ebenen, die durch Treppen und Leitern miteinander verbunden sind. In der Mitte des Kessels befindet sich ein vergittertes Loch, durch welches der Erzhaufen zu sehen ist. Der Kessel ist mehr oder weniger in zwei Seiten eingeteilt, die Seite der Bande und die Seite der Söldner und Gelehrten.
 
 ## Befreiermine
@@ -74,21 +75,26 @@ Zwischen der Außenmauer und der Festung befinden sich viele kleine Hütten und 
 * **Nordtorviertel**: Hier wohnt Ogedi und es gibt hier den einizgen Eingang zur Festung im inneren. Vor diesem Eingang steht ein Wookie in sehr schwerer Rüstung und hält Wache. Im Durchgang hinter ihm sieht man weitere Gardisten, die größtenteils sitzen und Karten spielen oder würfeln. Sie erheben sich immer nur dann, wenn sich jemand dem Tor nähert.
 * **Arenaviertel**: Die große Arena, die dem Viertel den Namen gibt, ist ein großer Rundbau, der in der Mitte des Viertels steht. Hier finden regelmäßig Kämpfe statt, die von den Bewohnern des Viertels und den Gardisten besucht werden. Tascy leitet die Arena und den angenzenden Schrottplatz. Hier werden auch die Wetten für die Kämpfe abgeschlossen. In der Arena werden Kämpfe häufig bis zum Tod ausgetragen. Manchmal werden Kämpfe gegen Monster veranstaltet.
 * **Südtorviertel**: Neben einem halb verfallenem Wachturm gibt es hier auch eine Schmiede, die von einem Besalisk namens Nonuho betrieben wird. Er repariert und schmiedet Waffen und Rüstungen für die Schatten und Werkzeuge oder kleinere Gebrauchsgegenstände für den Alltag. In diesem Viertel, nahe beim Tor hat Dragmor seinen Repulsorlift-Stand. Er schließt diverse Tauschgeschäfte ab und reist manchmal zwischen den Lagern der Bewahrer und der Befreier. Das Torhaus hier wurde nach Außen um eine Garage erweitert, in der ein paar Speeder und Repulsorfahrzeuge geparkt sind.
+* **Markviertel, Zelt**: Diese Viertel liegt unter einer alten Landeplattform, die einige Löcher aufweist und mit Planen geflickt wurde. Die Plattform ist jedoch ausschließlich aus der Festung erreichbar. Für die Bewohner dieses Viertels ist sie nicht mehr als ein Dach, dass einen Großteil des Regens abhält. Durch das ebenfalls abgehaltene Tageslicht, gibt es hier viele dunkle Ecken, in denen heimliche Geschäfte oder Treffen abgehalten werden können. An einem kleinen Podest steht der Lurmen Kaa Varpae, verteilt Sumpfkraut und Predigt die Leeren des Träumers.
 * **Festung im inneren**: Um Gegensatz zum Außenbereich gibt es hier keine individuelle improvisierte Hütten, sondern größere Gebäude, die Wahrscheinlich noch aus der Zeit stammen, als die Festung noch ein Fort war. Die Gebäude sind aus Stein und Metall und haben mehrere Stockwerke. Auf dem Innenhof sind häufig Gardisten und Manchmal auch Schatten zu sehen, die Trainieren oder Exerzieren. Abgesehen von einer Ruine, die scheinbar nur als Trainingsstätte genutzt wird, gibt es noch das Hauptgebäude, eine mehrstöckige Baracke, eine Werkstatt mit angeschlossenem Lagerhaus und gegenüber davon ein kleineres Gebäude, das von den Gelehrten unter Storciro genutzt wird.
 
 ## Bewahrermine
 
+Es gibt nur einen Zugang, der Vorhof ist mit einer Mauer umgeben und bewacht. Das Geräusch des großen Crushers, welcher Felsen zermalmt, ist bis weit vor die Mauer zu hören. Der trockene Staub von Stein hinterlässt einen metallischen Geschmack auf der Zunge und manchmal knirscht ein Körnchen zwischen den Zähnen. Die Luft, die direkt aus dem Schacht kommt ist stickig, warm und riecht nach Schweiß. Der oberste Teil der Mine ist fast verlassen, aber neben einem Kran der weit in die Tiefe führt kann man auf die Hauptebene schauen. Dort gibt es eine Essensstelle, eine Werkstatt und eine Kommandohütte (Zu erkennen an den Wachen, dem Rednerbalkon und dem Anschlagsbrett für Bekanntmachungen) abgesehen vom Kran gibt es eine schlecht befestigte Treppe, die an den Wänden entlang hinunter führt. Von der Hauptebene gelangt man tiefer zum Generator, sowie in diverse Schächte und Stollen. Manche davon sind mit Gittern und Plattern abgesperrt. Einige sind so schmall, dass ein Trandoshaner nur mit eingezogenem Kopf und seitwärts hindurch passt. Hier wird viel manuelle Arbeit geleistet, das Schlagen von Spitzhacken auf Fels ist ununterbrochen, auch wenn einige fahrbare Bohrer und Bohrlaser zum Einsatz kommen. Sogar Sprengstoff scheint es den Warnschildern nach in der Kommandohütte zu geben.
 
 * existiert
 * liegt im nordwesten
 * Zugang nur für Mitglieder der Bewahrer
 * es gibt scheinbar öfter Unfälle und Angriffe durch Droiden, bei denen Arbeiter sterben
+* Es scheint unterirdisch einen Zentrale oder Ähnliches zu geben, von der aus Droiden operieren
 
 ## Droidengebiet
 
 
 * Die Droiden sind hier sehr aggressiv
 * Alte Droidenfabrik aus der Zeit der Klonkriege
+* Das Droidengebiet breitet sich aus
+* Rados Unterschlupf liegt jetzt im Droidengebiet
 
 ## Landestelle
 
@@ -104,9 +110,12 @@ Es gibt eine Mauer und Wachen, die den Zugang zur Plattform kontrollieren.
 
 ## Träumerlager
 
+Die Luft ist vom Summen der Insekten und dem feucht-schlammigen Geruch des Sumpfes erfüllt. Sobald man sich jedoch den Behausungen in den Bäumen oder an deren Wurzeln nähert, überlagert der schwere Geruch von Sumpfkraut alle anderen Gerüche. Das plätschern und schwappen des Wassers und das Schmatzen der Schritte die von den spärlichen Planken der Wege abkommen künden von Leben überall. Nähert man sich dem verfallenem Tempel unter dem angrenzenden Klippenvorsprung hört man die Gesäng und die Meditationslaute der Träumer bevor man zwischen den dichten Blättern und Lianen die ersten Mauerreste erblickt.
+Das klirren der Energielanzen und anderen Waffen verrät die Trainingsplattform im geäst der Bäume, auf der die Templer rund um die Uhr Trainieren.
 
-* liegt im Osten
-* liegt am Wasser
+* liegt in einem Sumpf an einem See
+* Riesiege Bäume mit Behausungen in den Wipfeln
+* Sumpfhaie greifen an, wenn sie Blut wittern und sind im Wasser nicht zu unterschätzen
 
 
 # Aufträge
@@ -127,6 +136,8 @@ Ekelige Krabelkäfer, etwa Mausgroß als Jungtier, Ausgewachsen so groß wie ein
 * haarloses, nacktmullartiges Wesen
 * große Krallen und Nagezähne
 * scheint in oder an Höhlen zu leben
+* mag Wurzeln und Pilze
+* wird von Ferris als Zähmbar eingeschätzt
 
 ## Scavenger
 Vogelartig, Stummelfrügel, lange Beine, scharfe Krallen, Schnabel, Kurze raue Federn, Männchen roter Halssack ansonsten identisch
